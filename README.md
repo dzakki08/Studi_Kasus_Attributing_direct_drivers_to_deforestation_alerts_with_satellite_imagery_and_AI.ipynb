@@ -1,0 +1,1 @@
+# Studi_Kasus_Attributing_direct_drivers_to_deforestation_alerts_with_satellite_imagery_and_AI.ipynb
